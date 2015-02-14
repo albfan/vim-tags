@@ -1,0 +1,12 @@
+{
+  "name" : "vim-tags",
+  "version" : "dev",
+  "author" : "Luc Hermitte <http://code.google.com/p/lh-vim/wiki/contact>",
+  "maintainer" : "Luc Hermitte <http://code.google.com/p/lh-vim/wiki/contact>",
+  "repository" : {"type": "git", "url": "http://github.com/albfan/vim-tags.git"},
+  "dependencies" : {
+      "vim-lib" : {"type" : "git", "url" : "http://github.com/albfan/vim-lib.git"},
+      "system-tools" : {"type": "git", "url": "http://github.com/albfan/vim-system-tools.git"}
+  },
+  "description" : "ctags base updating, and browing"
+}
